@@ -1,0 +1,31 @@
+{
+  "name": "e923rj0ruj2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "debug": "^4.4.0",
+    "graceful-fs": "^4.2.11",
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "ms": "^2.1.3",
+    "random-js": "^2.1.0",
+    "simple-git": "^3.27.0",
+    "universalify": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heimin22/E923RJ0RUJ2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heimin22/E923RJ0RUJ2/issues"
+  },
+  "homepage": "https://github.com/heimin22/E923RJ0RUJ2#readme"
+}
